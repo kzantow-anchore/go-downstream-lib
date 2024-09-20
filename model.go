@@ -1,5 +1,5 @@
 package downstream
 
 type Model struct {
-	Name string `json:"name"`
+	Name2 string `json:"name2"`
 }
